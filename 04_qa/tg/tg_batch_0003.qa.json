@@ -1,0 +1,84 @@
+{
+  "batch": "tg_batch_0003.json",
+  "target_lang": "tg",
+  "agent_id": "agent_1",
+  "post_ids": [
+    124,
+    125,
+    126
+  ],
+  "status": "PASS",
+  "records": [
+    {
+      "post_id": 124,
+      "checks": {
+        "post_id": true,
+        "slug_id": true,
+        "schema": true,
+        "description_limit": true,
+        "slug_ascii": true,
+        "tag_sequence": true,
+        "tag_count": true,
+        "mathjax_blocks": true,
+        "inline_tex_count": true,
+        "hrefs": true,
+        "srcs": true,
+        "numeric_multiset": true,
+        "academic_title_preserved": true
+      },
+      "source_tags": 204,
+      "target_tags": 204,
+      "source_mathjax": 13,
+      "target_mathjax": 13,
+      "description_chars": 415
+    },
+    {
+      "post_id": 125,
+      "checks": {
+        "post_id": true,
+        "slug_id": true,
+        "schema": true,
+        "description_limit": true,
+        "slug_ascii": true,
+        "tag_sequence": true,
+        "tag_count": true,
+        "mathjax_blocks": true,
+        "inline_tex_count": true,
+        "hrefs": true,
+        "srcs": true,
+        "numeric_multiset": true,
+        "academic_title_preserved": true
+      },
+      "source_tags": 270,
+      "target_tags": 270,
+      "source_mathjax": 25,
+      "target_mathjax": 25,
+      "description_chars": 373
+    },
+    {
+      "post_id": 126,
+      "checks": {
+        "post_id": true,
+        "slug_id": true,
+        "schema": true,
+        "description_limit": true,
+        "slug_ascii": true,
+        "tag_sequence": true,
+        "tag_count": true,
+        "mathjax_blocks": true,
+        "inline_tex_count": true,
+        "hrefs": true,
+        "srcs": true,
+        "numeric_multiset": true,
+        "academic_title_preserved": true
+      },
+      "source_tags": 348,
+      "target_tags": 348,
+      "source_mathjax": 30,
+      "target_mathjax": 30,
+      "description_chars": 324
+    }
+  ],
+  "output_blob_sha": "44cd8351361a2fe05e95b2bda65c6c1650229f6d",
+  "output_bytes": 113911
+}

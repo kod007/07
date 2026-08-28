@@ -2,7 +2,11 @@
   "batch": "tg_batch_0001.json",
   "target_lang": "tg",
   "agent_id": "agent_1",
-  "post_ids": [118, 119, 120],
+  "post_ids": [
+    118,
+    119,
+    120
+  ],
   "status": "PASS",
   "checks": {
     "json_parse": true,

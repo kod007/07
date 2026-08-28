@@ -1,0 +1,32 @@
+name: Materialize translation output
+
+on:
+  push:
+    paths:
+      - '02_cevriliyor/**/staging/*.json.zlib.b64'
+
+permissions:
+  contents: write
+
+jobs:
+  materialize:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+      - name: Decode staged JSON
+        run: python scripts/decode_translation_staging.py
+      - name: Commit materialized output
+        run: |
+          if git diff --quiet && git diff --cached --quiet; then
+            exit 0
+          fi
+          git config user.name 'verianla-translation-bot'
+          git config user.email 'actions@users.noreply.github.com'
+          git add -A
+          git commit -m 'translate: materialize staged batch output'
+          git push

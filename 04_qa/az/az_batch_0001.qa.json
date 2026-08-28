@@ -1,0 +1,25 @@
+{
+  "batch": "az_batch_0001.json",
+  "target_lang": "az",
+  "agent_id": "agent_3",
+  "post_ids": [101, 102, 103],
+  "status": "PASS",
+  "checks": {
+    "json_parse": true,
+    "record_count": true,
+    "identity_post_id": true,
+    "identity_slug_id": true,
+    "schema": true,
+    "description_limit": true,
+    "slug_format": true,
+    "content_complete": true,
+    "html_integrity": true,
+    "formula_integrity": true,
+    "numeric_integrity": true,
+    "bilimsel_sadakat": true,
+    "turkce_sizintisi": false,
+    "external_info": false,
+    "exact_h2": true
+  },
+  "qa_timestamp": "2026-08-28T07:00:00Z"
+}

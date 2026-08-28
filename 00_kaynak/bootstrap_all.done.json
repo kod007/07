@@ -1,0 +1,35 @@
+{
+  "status": "PREPARED_LOCAL",
+  "source_sha256": "12a68721410cc4cb61d852751e220418662a5d79fa38aa6f1d3478cf18fdcf5c",
+  "generated_at": "2026-08-28",
+  "format": "translation-source-minimal",
+  "post_count": 1063,
+  "batch_size": 3,
+  "languages": {
+    "az": {
+      "records": 961,
+      "batches": 321,
+      "last_batch_size": 1
+    },
+    "uz_UZ": {
+      "records": 1029,
+      "batches": 343,
+      "last_batch_size": 3
+    },
+    "ky_KG": {
+      "records": 1029,
+      "batches": 343,
+      "last_batch_size": 3
+    },
+    "tg": {
+      "records": 1062,
+      "batches": 354,
+      "last_batch_size": 3
+    },
+    "sw": {
+      "records": 1031,
+      "batches": 344,
+      "last_batch_size": 2
+    }
+  }
+}

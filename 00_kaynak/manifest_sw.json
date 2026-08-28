@@ -1,0 +1,4480 @@
+{
+  "target_lang": "sw",
+  "source_file": "00_kaynak/original_untranslated.json",
+  "source_sha256": "12a68721410cc4cb61d852751e220418662a5d79fa38aa6f1d3478cf18fdcf5c",
+  "eligible_records": 1031,
+  "batch_size": 3,
+  "total_batches": 344,
+  "batches": [
+    {
+      "batch": "sw_batch_0001.json",
+      "post_ids": [
+        149,
+        150,
+        151
+      ],
+      "slug_ids": [
+        5973,
+        5986,
+        5998
+      ]
+    },
+    {
+      "batch": "sw_batch_0002.json",
+      "post_ids": [
+        152,
+        153,
+        154
+      ],
+      "slug_ids": [
+        6008,
+        6021,
+        6030
+      ]
+    },
+    {
+      "batch": "sw_batch_0003.json",
+      "post_ids": [
+        155,
+        156,
+        157
+      ],
+      "slug_ids": [
+        6040,
+        6054,
+        6069
+      ]
+    },
+    {
+      "batch": "sw_batch_0004.json",
+      "post_ids": [
+        158,
+        159,
+        160
+      ],
+      "slug_ids": [
+        6079,
+        6092,
+        6105
+      ]
+    },
+    {
+      "batch": "sw_batch_0005.json",
+      "post_ids": [
+        161,
+        162,
+        163
+      ],
+      "slug_ids": [
+        6116,
+        6126,
+        6137
+      ]
+    },
+    {
+      "batch": "sw_batch_0006.json",
+      "post_ids": [
+        164,
+        165,
+        166
+      ],
+      "slug_ids": [
+        6148,
+        6160,
+        6172
+      ]
+    },
+    {
+      "batch": "sw_batch_0007.json",
+      "post_ids": [
+        167,
+        168,
+        169
+      ],
+      "slug_ids": [
+        6181,
+        6191,
+        6205
+      ]
+    },
+    {
+      "batch": "sw_batch_0008.json",
+      "post_ids": [
+        170,
+        171,
+        172
+      ],
+      "slug_ids": [
+        6216,
+        6225,
+        6233
+      ]
+    },
+    {
+      "batch": "sw_batch_0009.json",
+      "post_ids": [
+        173,
+        174,
+        175
+      ],
+      "slug_ids": [
+        6243,
+        6251,
+        6259
+      ]
+    },
+    {
+      "batch": "sw_batch_0010.json",
+      "post_ids": [
+        176,
+        177,
+        178
+      ],
+      "slug_ids": [
+        6267,
+        6278,
+        6286
+      ]
+    },
+    {
+      "batch": "sw_batch_0011.json",
+      "post_ids": [
+        179,
+        180,
+        181
+      ],
+      "slug_ids": [
+        6298,
+        6308,
+        6316
+      ]
+    },
+    {
+      "batch": "sw_batch_0012.json",
+      "post_ids": [
+        182,
+        183,
+        184
+      ],
+      "slug_ids": [
+        6326,
+        6337,
+        6348
+      ]
+    },
+    {
+      "batch": "sw_batch_0013.json",
+      "post_ids": [
+        185,
+        186,
+        187
+      ],
+      "slug_ids": [
+        6360,
+        6373,
+        6382
+      ]
+    },
+    {
+      "batch": "sw_batch_0014.json",
+      "post_ids": [
+        188,
+        189,
+        190
+      ],
+      "slug_ids": [
+        6390,
+        6399,
+        6412
+      ]
+    },
+    {
+      "batch": "sw_batch_0015.json",
+      "post_ids": [
+        191,
+        192,
+        193
+      ],
+      "slug_ids": [
+        6422,
+        6429,
+        6438
+      ]
+    },
+    {
+      "batch": "sw_batch_0016.json",
+      "post_ids": [
+        194,
+        195,
+        196
+      ],
+      "slug_ids": [
+        6445,
+        6452,
+        6462
+      ]
+    },
+    {
+      "batch": "sw_batch_0017.json",
+      "post_ids": [
+        197,
+        198,
+        199
+      ],
+      "slug_ids": [
+        6473,
+        6484,
+        6493
+      ]
+    },
+    {
+      "batch": "sw_batch_0018.json",
+      "post_ids": [
+        200,
+        201,
+        202
+      ],
+      "slug_ids": [
+        6502,
+        6510,
+        6521
+      ]
+    },
+    {
+      "batch": "sw_batch_0019.json",
+      "post_ids": [
+        203,
+        204,
+        205
+      ],
+      "slug_ids": [
+        6530,
+        6537,
+        6546
+      ]
+    },
+    {
+      "batch": "sw_batch_0020.json",
+      "post_ids": [
+        206,
+        207,
+        208
+      ],
+      "slug_ids": [
+        6557,
+        6567,
+        6576
+      ]
+    },
+    {
+      "batch": "sw_batch_0021.json",
+      "post_ids": [
+        209,
+        210,
+        211
+      ],
+      "slug_ids": [
+        6586,
+        6597,
+        6603
+      ]
+    },
+    {
+      "batch": "sw_batch_0022.json",
+      "post_ids": [
+        212,
+        213,
+        214
+      ],
+      "slug_ids": [
+        6610,
+        6621,
+        6628
+      ]
+    },
+    {
+      "batch": "sw_batch_0023.json",
+      "post_ids": [
+        215,
+        216,
+        217
+      ],
+      "slug_ids": [
+        6636,
+        6646,
+        6657
+      ]
+    },
+    {
+      "batch": "sw_batch_0024.json",
+      "post_ids": [
+        218,
+        219,
+        220
+      ],
+      "slug_ids": [
+        6666,
+        6672,
+        6679
+      ]
+    },
+    {
+      "batch": "sw_batch_0025.json",
+      "post_ids": [
+        221,
+        222,
+        223
+      ],
+      "slug_ids": [
+        6688,
+        6699,
+        6710
+      ]
+    },
+    {
+      "batch": "sw_batch_0026.json",
+      "post_ids": [
+        224,
+        225,
+        226
+      ],
+      "slug_ids": [
+        6719,
+        6730,
+        6738
+      ]
+    },
+    {
+      "batch": "sw_batch_0027.json",
+      "post_ids": [
+        227,
+        228,
+        229
+      ],
+      "slug_ids": [
+        6747,
+        6755,
+        6764
+      ]
+    },
+    {
+      "batch": "sw_batch_0028.json",
+      "post_ids": [
+        230,
+        231,
+        232
+      ],
+      "slug_ids": [
+        6776,
+        6787,
+        6797
+      ]
+    },
+    {
+      "batch": "sw_batch_0029.json",
+      "post_ids": [
+        233,
+        234,
+        235
+      ],
+      "slug_ids": [
+        6807,
+        6813,
+        6821
+      ]
+    },
+    {
+      "batch": "sw_batch_0030.json",
+      "post_ids": [
+        236,
+        237,
+        238
+      ],
+      "slug_ids": [
+        6831,
+        6841,
+        6848
+      ]
+    },
+    {
+      "batch": "sw_batch_0031.json",
+      "post_ids": [
+        239,
+        240,
+        241
+      ],
+      "slug_ids": [
+        6860,
+        6868,
+        6876
+      ]
+    },
+    {
+      "batch": "sw_batch_0032.json",
+      "post_ids": [
+        242,
+        243,
+        244
+      ],
+      "slug_ids": [
+        6886,
+        6894,
+        6904
+      ]
+    },
+    {
+      "batch": "sw_batch_0033.json",
+      "post_ids": [
+        245,
+        246,
+        247
+      ],
+      "slug_ids": [
+        6913,
+        6922,
+        6930
+      ]
+    },
+    {
+      "batch": "sw_batch_0034.json",
+      "post_ids": [
+        248,
+        249,
+        250
+      ],
+      "slug_ids": [
+        6938,
+        6946,
+        6955
+      ]
+    },
+    {
+      "batch": "sw_batch_0035.json",
+      "post_ids": [
+        251,
+        252,
+        253
+      ],
+      "slug_ids": [
+        6962,
+        6969,
+        6979
+      ]
+    },
+    {
+      "batch": "sw_batch_0036.json",
+      "post_ids": [
+        257,
+        258,
+        260
+      ],
+      "slug_ids": [
+        7010,
+        7017,
+        7033
+      ]
+    },
+    {
+      "batch": "sw_batch_0037.json",
+      "post_ids": [
+        269,
+        270,
+        271
+      ],
+      "slug_ids": [
+        7089,
+        7095,
+        7101
+      ]
+    },
+    {
+      "batch": "sw_batch_0038.json",
+      "post_ids": [
+        272,
+        273,
+        274
+      ],
+      "slug_ids": [
+        7107,
+        7113,
+        7119
+      ]
+    },
+    {
+      "batch": "sw_batch_0039.json",
+      "post_ids": [
+        275,
+        277,
+        278
+      ],
+      "slug_ids": [
+        7123,
+        7133,
+        7139
+      ]
+    },
+    {
+      "batch": "sw_batch_0040.json",
+      "post_ids": [
+        279,
+        280,
+        281
+      ],
+      "slug_ids": [
+        7145,
+        7151,
+        7155
+      ]
+    },
+    {
+      "batch": "sw_batch_0041.json",
+      "post_ids": [
+        282,
+        283,
+        284
+      ],
+      "slug_ids": [
+        7161,
+        7167,
+        7173
+      ]
+    },
+    {
+      "batch": "sw_batch_0042.json",
+      "post_ids": [
+        285,
+        286,
+        287
+      ],
+      "slug_ids": [
+        7179,
+        7185,
+        7191
+      ]
+    },
+    {
+      "batch": "sw_batch_0043.json",
+      "post_ids": [
+        288,
+        289,
+        290
+      ],
+      "slug_ids": [
+        7197,
+        7200,
+        7206
+      ]
+    },
+    {
+      "batch": "sw_batch_0044.json",
+      "post_ids": [
+        291,
+        292,
+        293
+      ],
+      "slug_ids": [
+        7212,
+        7217,
+        7223
+      ]
+    },
+    {
+      "batch": "sw_batch_0045.json",
+      "post_ids": [
+        294,
+        295,
+        296
+      ],
+      "slug_ids": [
+        7228,
+        7234,
+        7240
+      ]
+    },
+    {
+      "batch": "sw_batch_0046.json",
+      "post_ids": [
+        297,
+        298,
+        299
+      ],
+      "slug_ids": [
+        7245,
+        7251,
+        7256
+      ]
+    },
+    {
+      "batch": "sw_batch_0047.json",
+      "post_ids": [
+        300,
+        301,
+        302
+      ],
+      "slug_ids": [
+        7258,
+        7263,
+        7268
+      ]
+    },
+    {
+      "batch": "sw_batch_0048.json",
+      "post_ids": [
+        303,
+        304,
+        305
+      ],
+      "slug_ids": [
+        7274,
+        7280,
+        7286
+      ]
+    },
+    {
+      "batch": "sw_batch_0049.json",
+      "post_ids": [
+        306,
+        307,
+        308
+      ],
+      "slug_ids": [
+        7291,
+        7297,
+        7303
+      ]
+    },
+    {
+      "batch": "sw_batch_0050.json",
+      "post_ids": [
+        309,
+        310,
+        311
+      ],
+      "slug_ids": [
+        7309,
+        7315,
+        7321
+      ]
+    },
+    {
+      "batch": "sw_batch_0051.json",
+      "post_ids": [
+        312,
+        313,
+        314
+      ],
+      "slug_ids": [
+        7327,
+        7333,
+        7339
+      ]
+    },
+    {
+      "batch": "sw_batch_0052.json",
+      "post_ids": [
+        315,
+        316,
+        317
+      ],
+      "slug_ids": [
+        7344,
+        7348,
+        7354
+      ]
+    },
+    {
+      "batch": "sw_batch_0053.json",
+      "post_ids": [
+        318,
+        319,
+        320
+      ],
+      "slug_ids": [
+        7360,
+        7366,
+        7372
+      ]
+    },
+    {
+      "batch": "sw_batch_0054.json",
+      "post_ids": [
+        321,
+        322,
+        323
+      ],
+      "slug_ids": [
+        7378,
+        7384,
+        7390
+      ]
+    },
+    {
+      "batch": "sw_batch_0055.json",
+      "post_ids": [
+        324,
+        325,
+        326
+      ],
+      "slug_ids": [
+        7396,
+        7402,
+        7408
+      ]
+    },
+    {
+      "batch": "sw_batch_0056.json",
+      "post_ids": [
+        327,
+        328,
+        329
+      ],
+      "slug_ids": [
+        7414,
+        7420,
+        7425
+      ]
+    },
+    {
+      "batch": "sw_batch_0057.json",
+      "post_ids": [
+        330,
+        331,
+        332
+      ],
+      "slug_ids": [
+        7430,
+        7436,
+        7442
+      ]
+    },
+    {
+      "batch": "sw_batch_0058.json",
+      "post_ids": [
+        333,
+        334,
+        335
+      ],
+      "slug_ids": [
+        7448,
+        7454,
+        7460
+      ]
+    },
+    {
+      "batch": "sw_batch_0059.json",
+      "post_ids": [
+        336,
+        337,
+        338
+      ],
+      "slug_ids": [
+        7465,
+        7471,
+        7477
+      ]
+    },
+    {
+      "batch": "sw_batch_0060.json",
+      "post_ids": [
+        339,
+        340,
+        341
+      ],
+      "slug_ids": [
+        7482,
+        7488,
+        7494
+      ]
+    },
+    {
+      "batch": "sw_batch_0061.json",
+      "post_ids": [
+        342,
+        343,
+        344
+      ],
+      "slug_ids": [
+        7500,
+        7506,
+        7512
+      ]
+    },
+    {
+      "batch": "sw_batch_0062.json",
+      "post_ids": [
+        345,
+        346,
+        347
+      ],
+      "slug_ids": [
+        7517,
+        7523,
+        7529
+      ]
+    },
+    {
+      "batch": "sw_batch_0063.json",
+      "post_ids": [
+        348,
+        349,
+        350
+      ],
+      "slug_ids": [
+        7535,
+        7541,
+        7547
+      ]
+    },
+    {
+      "batch": "sw_batch_0064.json",
+      "post_ids": [
+        351,
+        352,
+        353
+      ],
+      "slug_ids": [
+        7553,
+        7559,
+        7565
+      ]
+    },
+    {
+      "batch": "sw_batch_0065.json",
+      "post_ids": [
+        354,
+        355,
+        356
+      ],
+      "slug_ids": [
+        7571,
+        7576,
+        7582
+      ]
+    },
+    {
+      "batch": "sw_batch_0066.json",
+      "post_ids": [
+        357,
+        358,
+        359
+      ],
+      "slug_ids": [
+        7588,
+        7593,
+        7597
+      ]
+    },
+    {
+      "batch": "sw_batch_0067.json",
+      "post_ids": [
+        360,
+        361,
+        362
+      ],
+      "slug_ids": [
+        7603,
+        7608,
+        7614
+      ]
+    },
+    {
+      "batch": "sw_batch_0068.json",
+      "post_ids": [
+        363,
+        364,
+        365
+      ],
+      "slug_ids": [
+        7620,
+        7625,
+        7631
+      ]
+    },
+    {
+      "batch": "sw_batch_0069.json",
+      "post_ids": [
+        366,
+        367,
+        368
+      ],
+      "slug_ids": [
+        7637,
+        7643,
+        7649
+      ]
+    },
+    {
+      "batch": "sw_batch_0070.json",
+      "post_ids": [
+        369,
+        370,
+        371
+      ],
+      "slug_ids": [
+        7655,
+        7661,
+        7667
+      ]
+    },
+    {
+      "batch": "sw_batch_0071.json",
+      "post_ids": [
+        372,
+        373,
+        374
+      ],
+      "slug_ids": [
+        7673,
+        7679,
+        7684
+      ]
+    },
+    {
+      "batch": "sw_batch_0072.json",
+      "post_ids": [
+        375,
+        376,
+        377
+      ],
+      "slug_ids": [
+        7689,
+        7695,
+        7701
+      ]
+    },
+    {
+      "batch": "sw_batch_0073.json",
+      "post_ids": [
+        378,
+        379,
+        380
+      ],
+      "slug_ids": [
+        7707,
+        7713,
+        7719
+      ]
+    },
+    {
+      "batch": "sw_batch_0074.json",
+      "post_ids": [
+        381,
+        382,
+        383
+      ],
+      "slug_ids": [
+        7725,
+        7731,
+        7737
+      ]
+    },
+    {
+      "batch": "sw_batch_0075.json",
+      "post_ids": [
+        384,
+        385,
+        386
+      ],
+      "slug_ids": [
+        7743,
+        7749,
+        7755
+      ]
+    },
+    {
+      "batch": "sw_batch_0076.json",
+      "post_ids": [
+        387,
+        388,
+        389
+      ],
+      "slug_ids": [
+        7761,
+        7767,
+        7773
+      ]
+    },
+    {
+      "batch": "sw_batch_0077.json",
+      "post_ids": [
+        390,
+        391,
+        392
+      ],
+      "slug_ids": [
+        7779,
+        7785,
+        7791
+      ]
+    },
+    {
+      "batch": "sw_batch_0078.json",
+      "post_ids": [
+        393,
+        394,
+        395
+      ],
+      "slug_ids": [
+        7795,
+        7801,
+        7807
+      ]
+    },
+    {
+      "batch": "sw_batch_0079.json",
+      "post_ids": [
+        396,
+        397,
+        398
+      ],
+      "slug_ids": [
+        7813,
+        7819,
+        7825
+      ]
+    },
+    {
+      "batch": "sw_batch_0080.json",
+      "post_ids": [
+        399,
+        400,
+        401
+      ],
+      "slug_ids": [
+        7830,
+        7836,
+        7842
+      ]
+    },
+    {
+      "batch": "sw_batch_0081.json",
+      "post_ids": [
+        402,
+        403,
+        404
+      ],
+      "slug_ids": [
+        7847,
+        7852,
+        7857
+      ]
+    },
+    {
+      "batch": "sw_batch_0082.json",
+      "post_ids": [
+        405,
+        406,
+        407
+      ],
+      "slug_ids": [
+        7863,
+        7869,
+        7875
+      ]
+    },
+    {
+      "batch": "sw_batch_0083.json",
+      "post_ids": [
+        408,
+        409,
+        410
+      ],
+      "slug_ids": [
+        7881,
+        7887,
+        7893
+      ]
+    },
+    {
+      "batch": "sw_batch_0084.json",
+      "post_ids": [
+        411,
+        412,
+        413
+      ],
+      "slug_ids": [
+        7899,
+        7905,
+        7911
+      ]
+    },
+    {
+      "batch": "sw_batch_0085.json",
+      "post_ids": [
+        414,
+        415,
+        416
+      ],
+      "slug_ids": [
+        7917,
+        7923,
+        7929
+      ]
+    },
+    {
+      "batch": "sw_batch_0086.json",
+      "post_ids": [
+        417,
+        418,
+        419
+      ],
+      "slug_ids": [
+        7935,
+        7941,
+        7946
+      ]
+    },
+    {
+      "batch": "sw_batch_0087.json",
+      "post_ids": [
+        420,
+        421,
+        422
+      ],
+      "slug_ids": [
+        7952,
+        7957,
+        7963
+      ]
+    },
+    {
+      "batch": "sw_batch_0088.json",
+      "post_ids": [
+        423,
+        424,
+        425
+      ],
+      "slug_ids": [
+        7968,
+        7973,
+        7979
+      ]
+    },
+    {
+      "batch": "sw_batch_0089.json",
+      "post_ids": [
+        426,
+        427,
+        428
+      ],
+      "slug_ids": [
+        7985,
+        7991,
+        7997
+      ]
+    },
+    {
+      "batch": "sw_batch_0090.json",
+      "post_ids": [
+        429,
+        430,
+        431
+      ],
+      "slug_ids": [
+        8003,
+        8009,
+        8014
+      ]
+    },
+    {
+      "batch": "sw_batch_0091.json",
+      "post_ids": [
+        432,
+        433,
+        434
+      ],
+      "slug_ids": [
+        8020,
+        8026,
+        8032
+      ]
+    },
+    {
+      "batch": "sw_batch_0092.json",
+      "post_ids": [
+        435,
+        436,
+        437
+      ],
+      "slug_ids": [
+        8038,
+        8044,
+        8050
+      ]
+    },
+    {
+      "batch": "sw_batch_0093.json",
+      "post_ids": [
+        438,
+        439,
+        440
+      ],
+      "slug_ids": [
+        8056,
+        8061,
+        8067
+      ]
+    },
+    {
+      "batch": "sw_batch_0094.json",
+      "post_ids": [
+        441,
+        442,
+        443
+      ],
+      "slug_ids": [
+        8073,
+        8079,
+        8085
+      ]
+    },
+    {
+      "batch": "sw_batch_0095.json",
+      "post_ids": [
+        444,
+        445,
+        446
+      ],
+      "slug_ids": [
+        8091,
+        8097,
+        8102
+      ]
+    },
+    {
+      "batch": "sw_batch_0096.json",
+      "post_ids": [
+        447,
+        448,
+        449
+      ],
+      "slug_ids": [
+        8107,
+        8112,
+        8117
+      ]
+    },
+    {
+      "batch": "sw_batch_0097.json",
+      "post_ids": [
+        450,
+        451,
+        452
+      ],
+      "slug_ids": [
+        8123,
+        8129,
+        8135
+      ]
+    },
+    {
+      "batch": "sw_batch_0098.json",
+      "post_ids": [
+        453,
+        454,
+        455
+      ],
+      "slug_ids": [
+        8140,
+        8146,
+        8152
+      ]
+    },
+    {
+      "batch": "sw_batch_0099.json",
+      "post_ids": [
+        456,
+        457,
+        458
+      ],
+      "slug_ids": [
+        8158,
+        8164,
+        8170
+      ]
+    },
+    {
+      "batch": "sw_batch_0100.json",
+      "post_ids": [
+        459,
+        460,
+        461
+      ],
+      "slug_ids": [
+        8176,
+        8182,
+        8187
+      ]
+    },
+    {
+      "batch": "sw_batch_0101.json",
+      "post_ids": [
+        462,
+        463,
+        464
+      ],
+      "slug_ids": [
+        8192,
+        8198,
+        8203
+      ]
+    },
+    {
+      "batch": "sw_batch_0102.json",
+      "post_ids": [
+        465,
+        466,
+        467
+      ],
+      "slug_ids": [
+        8209,
+        8210,
+        8216
+      ]
+    },
+    {
+      "batch": "sw_batch_0103.json",
+      "post_ids": [
+        468,
+        469,
+        470
+      ],
+      "slug_ids": [
+        8219,
+        8225,
+        8231
+      ]
+    },
+    {
+      "batch": "sw_batch_0104.json",
+      "post_ids": [
+        471,
+        472,
+        473
+      ],
+      "slug_ids": [
+        8237,
+        8241,
+        8247
+      ]
+    },
+    {
+      "batch": "sw_batch_0105.json",
+      "post_ids": [
+        474,
+        475,
+        476
+      ],
+      "slug_ids": [
+        8252,
+        8257,
+        8262
+      ]
+    },
+    {
+      "batch": "sw_batch_0106.json",
+      "post_ids": [
+        477,
+        478,
+        479
+      ],
+      "slug_ids": [
+        8268,
+        8274,
+        8280
+      ]
+    },
+    {
+      "batch": "sw_batch_0107.json",
+      "post_ids": [
+        480,
+        481,
+        482
+      ],
+      "slug_ids": [
+        8285,
+        8289,
+        8295
+      ]
+    },
+    {
+      "batch": "sw_batch_0108.json",
+      "post_ids": [
+        483,
+        484,
+        485
+      ],
+      "slug_ids": [
+        8300,
+        8306,
+        8312
+      ]
+    },
+    {
+      "batch": "sw_batch_0109.json",
+      "post_ids": [
+        486,
+        487,
+        488
+      ],
+      "slug_ids": [
+        8317,
+        8323,
+        8329
+      ]
+    },
+    {
+      "batch": "sw_batch_0110.json",
+      "post_ids": [
+        489,
+        490,
+        491
+      ],
+      "slug_ids": [
+        8334,
+        8339,
+        8344
+      ]
+    },
+    {
+      "batch": "sw_batch_0111.json",
+      "post_ids": [
+        492,
+        493,
+        494
+      ],
+      "slug_ids": [
+        8350,
+        8356,
+        8362
+      ]
+    },
+    {
+      "batch": "sw_batch_0112.json",
+      "post_ids": [
+        495,
+        496,
+        497
+      ],
+      "slug_ids": [
+        8368,
+        8369,
+        8375
+      ]
+    },
+    {
+      "batch": "sw_batch_0113.json",
+      "post_ids": [
+        498,
+        499,
+        500
+      ],
+      "slug_ids": [
+        8379,
+        8385,
+        8388
+      ]
+    },
+    {
+      "batch": "sw_batch_0114.json",
+      "post_ids": [
+        501,
+        502,
+        503
+      ],
+      "slug_ids": [
+        8393,
+        8398,
+        8404
+      ]
+    },
+    {
+      "batch": "sw_batch_0115.json",
+      "post_ids": [
+        504,
+        505,
+        506
+      ],
+      "slug_ids": [
+        8410,
+        8416,
+        8422
+      ]
+    },
+    {
+      "batch": "sw_batch_0116.json",
+      "post_ids": [
+        507,
+        508,
+        509
+      ],
+      "slug_ids": [
+        8428,
+        8434,
+        8440
+      ]
+    },
+    {
+      "batch": "sw_batch_0117.json",
+      "post_ids": [
+        510,
+        511,
+        512
+      ],
+      "slug_ids": [
+        8446,
+        8452,
+        8457
+      ]
+    },
+    {
+      "batch": "sw_batch_0118.json",
+      "post_ids": [
+        513,
+        514,
+        515
+      ],
+      "slug_ids": [
+        8462,
+        8467,
+        8473
+      ]
+    },
+    {
+      "batch": "sw_batch_0119.json",
+      "post_ids": [
+        516,
+        517,
+        518
+      ],
+      "slug_ids": [
+        8479,
+        8485,
+        8491
+      ]
+    },
+    {
+      "batch": "sw_batch_0120.json",
+      "post_ids": [
+        519,
+        520,
+        521
+      ],
+      "slug_ids": [
+        8497,
+        8503,
+        8508
+      ]
+    },
+    {
+      "batch": "sw_batch_0121.json",
+      "post_ids": [
+        522,
+        523,
+        524
+      ],
+      "slug_ids": [
+        8514,
+        8520,
+        8526
+      ]
+    },
+    {
+      "batch": "sw_batch_0122.json",
+      "post_ids": [
+        525,
+        526,
+        527
+      ],
+      "slug_ids": [
+        8532,
+        8538,
+        8544
+      ]
+    },
+    {
+      "batch": "sw_batch_0123.json",
+      "post_ids": [
+        528,
+        529,
+        530
+      ],
+      "slug_ids": [
+        8550,
+        8556,
+        8562
+      ]
+    },
+    {
+      "batch": "sw_batch_0124.json",
+      "post_ids": [
+        531,
+        532,
+        533
+      ],
+      "slug_ids": [
+        8568,
+        8573,
+        8579
+      ]
+    },
+    {
+      "batch": "sw_batch_0125.json",
+      "post_ids": [
+        534,
+        535,
+        536
+      ],
+      "slug_ids": [
+        8585,
+        8591,
+        8597
+      ]
+    },
+    {
+      "batch": "sw_batch_0126.json",
+      "post_ids": [
+        537,
+        538,
+        539
+      ],
+      "slug_ids": [
+        8603,
+        8609,
+        8614
+      ]
+    },
+    {
+      "batch": "sw_batch_0127.json",
+      "post_ids": [
+        540,
+        541,
+        542
+      ],
+      "slug_ids": [
+        8620,
+        8626,
+        8632
+      ]
+    },
+    {
+      "batch": "sw_batch_0128.json",
+      "post_ids": [
+        543,
+        544,
+        545
+      ],
+      "slug_ids": [
+        8638,
+        8644,
+        8650
+      ]
+    },
+    {
+      "batch": "sw_batch_0129.json",
+      "post_ids": [
+        546,
+        547,
+        548
+      ],
+      "slug_ids": [
+        8655,
+        8660,
+        8666
+      ]
+    },
+    {
+      "batch": "sw_batch_0130.json",
+      "post_ids": [
+        549,
+        550,
+        551
+      ],
+      "slug_ids": [
+        8671,
+        8676,
+        8681
+      ]
+    },
+    {
+      "batch": "sw_batch_0131.json",
+      "post_ids": [
+        552,
+        553,
+        554
+      ],
+      "slug_ids": [
+        8686,
+        8692,
+        8697
+      ]
+    },
+    {
+      "batch": "sw_batch_0132.json",
+      "post_ids": [
+        555,
+        556,
+        557
+      ],
+      "slug_ids": [
+        8701,
+        8707,
+        8712
+      ]
+    },
+    {
+      "batch": "sw_batch_0133.json",
+      "post_ids": [
+        558,
+        559,
+        560
+      ],
+      "slug_ids": [
+        8717,
+        8722,
+        8728
+      ]
+    },
+    {
+      "batch": "sw_batch_0134.json",
+      "post_ids": [
+        561,
+        562,
+        563
+      ],
+      "slug_ids": [
+        8732,
+        8738,
+        8744
+      ]
+    },
+    {
+      "batch": "sw_batch_0135.json",
+      "post_ids": [
+        564,
+        565,
+        566
+      ],
+      "slug_ids": [
+        8748,
+        8753,
+        8757
+      ]
+    },
+    {
+      "batch": "sw_batch_0136.json",
+      "post_ids": [
+        567,
+        568,
+        569
+      ],
+      "slug_ids": [
+        8763,
+        8768,
+        8774
+      ]
+    },
+    {
+      "batch": "sw_batch_0137.json",
+      "post_ids": [
+        570,
+        571,
+        572
+      ],
+      "slug_ids": [
+        8780,
+        8786,
+        8790
+      ]
+    },
+    {
+      "batch": "sw_batch_0138.json",
+      "post_ids": [
+        573,
+        574,
+        575
+      ],
+      "slug_ids": [
+        8796,
+        8802,
+        8807
+      ]
+    },
+    {
+      "batch": "sw_batch_0139.json",
+      "post_ids": [
+        576,
+        577,
+        578
+      ],
+      "slug_ids": [
+        8813,
+        8818,
+        8824
+      ]
+    },
+    {
+      "batch": "sw_batch_0140.json",
+      "post_ids": [
+        579,
+        580,
+        581
+      ],
+      "slug_ids": [
+        8829,
+        8835,
+        8841
+      ]
+    },
+    {
+      "batch": "sw_batch_0141.json",
+      "post_ids": [
+        582,
+        583,
+        584
+      ],
+      "slug_ids": [
+        8846,
+        8851,
+        8856
+      ]
+    },
+    {
+      "batch": "sw_batch_0142.json",
+      "post_ids": [
+        585,
+        586,
+        587
+      ],
+      "slug_ids": [
+        8862,
+        8868,
+        8869
+      ]
+    },
+    {
+      "batch": "sw_batch_0143.json",
+      "post_ids": [
+        588,
+        589,
+        590
+      ],
+      "slug_ids": [
+        8875,
+        8880,
+        8885
+      ]
+    },
+    {
+      "batch": "sw_batch_0144.json",
+      "post_ids": [
+        591,
+        592,
+        593
+      ],
+      "slug_ids": [
+        8889,
+        8895,
+        8901
+      ]
+    },
+    {
+      "batch": "sw_batch_0145.json",
+      "post_ids": [
+        594,
+        595,
+        596
+      ],
+      "slug_ids": [
+        8907,
+        8913,
+        8919
+      ]
+    },
+    {
+      "batch": "sw_batch_0146.json",
+      "post_ids": [
+        597,
+        598,
+        599
+      ],
+      "slug_ids": [
+        8920,
+        8926,
+        8932
+      ]
+    },
+    {
+      "batch": "sw_batch_0147.json",
+      "post_ids": [
+        600,
+        601,
+        602
+      ],
+      "slug_ids": [
+        8938,
+        8943,
+        8948
+      ]
+    },
+    {
+      "batch": "sw_batch_0148.json",
+      "post_ids": [
+        603,
+        604,
+        605
+      ],
+      "slug_ids": [
+        8954,
+        8960,
+        8966
+      ]
+    },
+    {
+      "batch": "sw_batch_0149.json",
+      "post_ids": [
+        606,
+        607,
+        608
+      ],
+      "slug_ids": [
+        8972,
+        8978,
+        8984
+      ]
+    },
+    {
+      "batch": "sw_batch_0150.json",
+      "post_ids": [
+        609,
+        610,
+        611
+      ],
+      "slug_ids": [
+        8990,
+        8996,
+        9002
+      ]
+    },
+    {
+      "batch": "sw_batch_0151.json",
+      "post_ids": [
+        612,
+        613,
+        614
+      ],
+      "slug_ids": [
+        9008,
+        9014,
+        9018
+      ]
+    },
+    {
+      "batch": "sw_batch_0152.json",
+      "post_ids": [
+        615,
+        616,
+        617
+      ],
+      "slug_ids": [
+        9024,
+        9030,
+        9036
+      ]
+    },
+    {
+      "batch": "sw_batch_0153.json",
+      "post_ids": [
+        618,
+        619,
+        620
+      ],
+      "slug_ids": [
+        9042,
+        9048,
+        9054
+      ]
+    },
+    {
+      "batch": "sw_batch_0154.json",
+      "post_ids": [
+        621,
+        622,
+        623
+      ],
+      "slug_ids": [
+        9059,
+        9065,
+        9071
+      ]
+    },
+    {
+      "batch": "sw_batch_0155.json",
+      "post_ids": [
+        624,
+        625,
+        626
+      ],
+      "slug_ids": [
+        9077,
+        9083,
+        9088
+      ]
+    },
+    {
+      "batch": "sw_batch_0156.json",
+      "post_ids": [
+        627,
+        628,
+        629
+      ],
+      "slug_ids": [
+        9093,
+        9098,
+        9102
+      ]
+    },
+    {
+      "batch": "sw_batch_0157.json",
+      "post_ids": [
+        630,
+        631,
+        632
+      ],
+      "slug_ids": [
+        9108,
+        9114,
+        9120
+      ]
+    },
+    {
+      "batch": "sw_batch_0158.json",
+      "post_ids": [
+        633,
+        634,
+        635
+      ],
+      "slug_ids": [
+        9126,
+        9132,
+        9138
+      ]
+    },
+    {
+      "batch": "sw_batch_0159.json",
+      "post_ids": [
+        636,
+        637,
+        638
+      ],
+      "slug_ids": [
+        9144,
+        9150,
+        9156
+      ]
+    },
+    {
+      "batch": "sw_batch_0160.json",
+      "post_ids": [
+        639,
+        640,
+        641
+      ],
+      "slug_ids": [
+        9162,
+        9168,
+        9173
+      ]
+    },
+    {
+      "batch": "sw_batch_0161.json",
+      "post_ids": [
+        642,
+        643,
+        644
+      ],
+      "slug_ids": [
+        9179,
+        9184,
+        9189
+      ]
+    },
+    {
+      "batch": "sw_batch_0162.json",
+      "post_ids": [
+        645,
+        646,
+        647
+      ],
+      "slug_ids": [
+        9195,
+        9201,
+        9207
+      ]
+    },
+    {
+      "batch": "sw_batch_0163.json",
+      "post_ids": [
+        648,
+        649,
+        650
+      ],
+      "slug_ids": [
+        9213,
+        9219,
+        9225
+      ]
+    },
+    {
+      "batch": "sw_batch_0164.json",
+      "post_ids": [
+        651,
+        652,
+        653
+      ],
+      "slug_ids": [
+        9231,
+        9237,
+        9243
+      ]
+    },
+    {
+      "batch": "sw_batch_0165.json",
+      "post_ids": [
+        654,
+        655,
+        656
+      ],
+      "slug_ids": [
+        9249,
+        9255,
+        9261
+      ]
+    },
+    {
+      "batch": "sw_batch_0166.json",
+      "post_ids": [
+        657,
+        658,
+        659
+      ],
+      "slug_ids": [
+        9267,
+        9273,
+        9278
+      ]
+    },
+    {
+      "batch": "sw_batch_0167.json",
+      "post_ids": [
+        660,
+        661,
+        662
+      ],
+      "slug_ids": [
+        9283,
+        9289,
+        9295
+      ]
+    },
+    {
+      "batch": "sw_batch_0168.json",
+      "post_ids": [
+        663,
+        664,
+        665
+      ],
+      "slug_ids": [
+        9300,
+        9306,
+        9312
+      ]
+    },
+    {
+      "batch": "sw_batch_0169.json",
+      "post_ids": [
+        666,
+        667,
+        668
+      ],
+      "slug_ids": [
+        9317,
+        9323,
+        9328
+      ]
+    },
+    {
+      "batch": "sw_batch_0170.json",
+      "post_ids": [
+        669,
+        670,
+        671
+      ],
+      "slug_ids": [
+        9334,
+        9339,
+        9344
+      ]
+    },
+    {
+      "batch": "sw_batch_0171.json",
+      "post_ids": [
+        672,
+        673,
+        674
+      ],
+      "slug_ids": [
+        9350,
+        9356,
+        9361
+      ]
+    },
+    {
+      "batch": "sw_batch_0172.json",
+      "post_ids": [
+        675,
+        676,
+        677
+      ],
+      "slug_ids": [
+        9367,
+        9372,
+        9377
+      ]
+    },
+    {
+      "batch": "sw_batch_0173.json",
+      "post_ids": [
+        678,
+        679,
+        680
+      ],
+      "slug_ids": [
+        9383,
+        9389,
+        9395
+      ]
+    },
+    {
+      "batch": "sw_batch_0174.json",
+      "post_ids": [
+        681,
+        682,
+        683
+      ],
+      "slug_ids": [
+        9400,
+        9406,
+        9412
+      ]
+    },
+    {
+      "batch": "sw_batch_0175.json",
+      "post_ids": [
+        684,
+        685,
+        686
+      ],
+      "slug_ids": [
+        9417,
+        9423,
+        9429
+      ]
+    },
+    {
+      "batch": "sw_batch_0176.json",
+      "post_ids": [
+        687,
+        688,
+        689
+      ],
+      "slug_ids": [
+        9434,
+        9439,
+        9445
+      ]
+    },
+    {
+      "batch": "sw_batch_0177.json",
+      "post_ids": [
+        690,
+        691,
+        692
+      ],
+      "slug_ids": [
+        9451,
+        9457,
+        9462
+      ]
+    },
+    {
+      "batch": "sw_batch_0178.json",
+      "post_ids": [
+        693,
+        694,
+        695
+      ],
+      "slug_ids": [
+        9468,
+        9474,
+        9480
+      ]
+    },
+    {
+      "batch": "sw_batch_0179.json",
+      "post_ids": [
+        696,
+        697,
+        698
+      ],
+      "slug_ids": [
+        9485,
+        9491,
+        9497
+      ]
+    },
+    {
+      "batch": "sw_batch_0180.json",
+      "post_ids": [
+        699,
+        700,
+        701
+      ],
+      "slug_ids": [
+        9503,
+        9509,
+        9515
+      ]
+    },
+    {
+      "batch": "sw_batch_0181.json",
+      "post_ids": [
+        702,
+        703,
+        704
+      ],
+      "slug_ids": [
+        9520,
+        9526,
+        9532
+      ]
+    },
+    {
+      "batch": "sw_batch_0182.json",
+      "post_ids": [
+        705,
+        706,
+        707
+      ],
+      "slug_ids": [
+        9537,
+        9543,
+        9549
+      ]
+    },
+    {
+      "batch": "sw_batch_0183.json",
+      "post_ids": [
+        708,
+        709,
+        710
+      ],
+      "slug_ids": [
+        9554,
+        9559,
+        9564
+      ]
+    },
+    {
+      "batch": "sw_batch_0184.json",
+      "post_ids": [
+        711,
+        712,
+        713
+      ],
+      "slug_ids": [
+        9570,
+        9575,
+        9581
+      ]
+    },
+    {
+      "batch": "sw_batch_0185.json",
+      "post_ids": [
+        714,
+        715,
+        716
+      ],
+      "slug_ids": [
+        9586,
+        9592,
+        9598
+      ]
+    },
+    {
+      "batch": "sw_batch_0186.json",
+      "post_ids": [
+        717,
+        718,
+        719
+      ],
+      "slug_ids": [
+        9604,
+        9609,
+        9615
+      ]
+    },
+    {
+      "batch": "sw_batch_0187.json",
+      "post_ids": [
+        720,
+        721,
+        722
+      ],
+      "slug_ids": [
+        9621,
+        9627,
+        9633
+      ]
+    },
+    {
+      "batch": "sw_batch_0188.json",
+      "post_ids": [
+        723,
+        724,
+        725
+      ],
+      "slug_ids": [
+        9639,
+        9645,
+        9651
+      ]
+    },
+    {
+      "batch": "sw_batch_0189.json",
+      "post_ids": [
+        726,
+        727,
+        728
+      ],
+      "slug_ids": [
+        9657,
+        9662,
+        9667
+      ]
+    },
+    {
+      "batch": "sw_batch_0190.json",
+      "post_ids": [
+        729,
+        730,
+        731
+      ],
+      "slug_ids": [
+        9673,
+        9679,
+        9685
+      ]
+    },
+    {
+      "batch": "sw_batch_0191.json",
+      "post_ids": [
+        732,
+        733,
+        734
+      ],
+      "slug_ids": [
+        9689,
+        9693,
+        9699
+      ]
+    },
+    {
+      "batch": "sw_batch_0192.json",
+      "post_ids": [
+        735,
+        736,
+        737
+      ],
+      "slug_ids": [
+        9705,
+        9711,
+        9717
+      ]
+    },
+    {
+      "batch": "sw_batch_0193.json",
+      "post_ids": [
+        738,
+        739,
+        740
+      ],
+      "slug_ids": [
+        9723,
+        9729,
+        9735
+      ]
+    },
+    {
+      "batch": "sw_batch_0194.json",
+      "post_ids": [
+        741,
+        742,
+        743
+      ],
+      "slug_ids": [
+        9741,
+        9747,
+        9753
+      ]
+    },
+    {
+      "batch": "sw_batch_0195.json",
+      "post_ids": [
+        744,
+        745,
+        746
+      ],
+      "slug_ids": [
+        9758,
+        9764,
+        9770
+      ]
+    },
+    {
+      "batch": "sw_batch_0196.json",
+      "post_ids": [
+        747,
+        748,
+        749
+      ],
+      "slug_ids": [
+        9776,
+        9782,
+        9788
+      ]
+    },
+    {
+      "batch": "sw_batch_0197.json",
+      "post_ids": [
+        750,
+        751,
+        752
+      ],
+      "slug_ids": [
+        9794,
+        9800,
+        9806
+      ]
+    },
+    {
+      "batch": "sw_batch_0198.json",
+      "post_ids": [
+        753,
+        754,
+        755
+      ],
+      "slug_ids": [
+        9811,
+        9817,
+        9822
+      ]
+    },
+    {
+      "batch": "sw_batch_0199.json",
+      "post_ids": [
+        756,
+        757,
+        758
+      ],
+      "slug_ids": [
+        9828,
+        9834,
+        9840
+      ]
+    },
+    {
+      "batch": "sw_batch_0200.json",
+      "post_ids": [
+        759,
+        760,
+        761
+      ],
+      "slug_ids": [
+        9846,
+        9850,
+        9856
+      ]
+    },
+    {
+      "batch": "sw_batch_0201.json",
+      "post_ids": [
+        762,
+        763,
+        764
+      ],
+      "slug_ids": [
+        9861,
+        9867,
+        9873
+      ]
+    },
+    {
+      "batch": "sw_batch_0202.json",
+      "post_ids": [
+        765,
+        766,
+        767
+      ],
+      "slug_ids": [
+        9879,
+        9886,
+        9887
+      ]
+    },
+    {
+      "batch": "sw_batch_0203.json",
+      "post_ids": [
+        768,
+        769,
+        770
+      ],
+      "slug_ids": [
+        9892,
+        9898,
+        9904
+      ]
+    },
+    {
+      "batch": "sw_batch_0204.json",
+      "post_ids": [
+        771,
+        772,
+        773
+      ],
+      "slug_ids": [
+        9910,
+        9916,
+        9922
+      ]
+    },
+    {
+      "batch": "sw_batch_0205.json",
+      "post_ids": [
+        774,
+        775,
+        776
+      ],
+      "slug_ids": [
+        9927,
+        9933,
+        9939
+      ]
+    },
+    {
+      "batch": "sw_batch_0206.json",
+      "post_ids": [
+        777,
+        778,
+        779
+      ],
+      "slug_ids": [
+        9945,
+        9949,
+        9955
+      ]
+    },
+    {
+      "batch": "sw_batch_0207.json",
+      "post_ids": [
+        780,
+        781,
+        782
+      ],
+      "slug_ids": [
+        9961,
+        9967,
+        9973
+      ]
+    },
+    {
+      "batch": "sw_batch_0208.json",
+      "post_ids": [
+        783,
+        784,
+        785
+      ],
+      "slug_ids": [
+        9979,
+        9985,
+        9991
+      ]
+    },
+    {
+      "batch": "sw_batch_0209.json",
+      "post_ids": [
+        786,
+        787,
+        788
+      ],
+      "slug_ids": [
+        9997,
+        10003,
+        10009
+      ]
+    },
+    {
+      "batch": "sw_batch_0210.json",
+      "post_ids": [
+        789,
+        790,
+        791
+      ],
+      "slug_ids": [
+        10014,
+        10020,
+        10026
+      ]
+    },
+    {
+      "batch": "sw_batch_0211.json",
+      "post_ids": [
+        792,
+        793,
+        794
+      ],
+      "slug_ids": [
+        10032,
+        10038,
+        10044
+      ]
+    },
+    {
+      "batch": "sw_batch_0212.json",
+      "post_ids": [
+        795,
+        796,
+        797
+      ],
+      "slug_ids": [
+        10048,
+        10053,
+        10059
+      ]
+    },
+    {
+      "batch": "sw_batch_0213.json",
+      "post_ids": [
+        798,
+        799,
+        800
+      ],
+      "slug_ids": [
+        10065,
+        10071,
+        10077
+      ]
+    },
+    {
+      "batch": "sw_batch_0214.json",
+      "post_ids": [
+        801,
+        802,
+        803
+      ],
+      "slug_ids": [
+        10082,
+        10088,
+        10093
+      ]
+    },
+    {
+      "batch": "sw_batch_0215.json",
+      "post_ids": [
+        804,
+        805,
+        806
+      ],
+      "slug_ids": [
+        10099,
+        10105,
+        10111
+      ]
+    },
+    {
+      "batch": "sw_batch_0216.json",
+      "post_ids": [
+        807,
+        808,
+        809
+      ],
+      "slug_ids": [
+        10112,
+        10118,
+        10123
+      ]
+    },
+    {
+      "batch": "sw_batch_0217.json",
+      "post_ids": [
+        810,
+        811,
+        812
+      ],
+      "slug_ids": [
+        10127,
+        10133,
+        10139
+      ]
+    },
+    {
+      "batch": "sw_batch_0218.json",
+      "post_ids": [
+        813,
+        814,
+        815
+      ],
+      "slug_ids": [
+        10145,
+        10151,
+        10156
+      ]
+    },
+    {
+      "batch": "sw_batch_0219.json",
+      "post_ids": [
+        816,
+        817,
+        818
+      ],
+      "slug_ids": [
+        10161,
+        10167,
+        10173
+      ]
+    },
+    {
+      "batch": "sw_batch_0220.json",
+      "post_ids": [
+        819,
+        821,
+        822
+      ],
+      "slug_ids": [
+        10179,
+        10189,
+        10190
+      ]
+    },
+    {
+      "batch": "sw_batch_0221.json",
+      "post_ids": [
+        823,
+        824,
+        825
+      ],
+      "slug_ids": [
+        10196,
+        10201,
+        10207
+      ]
+    },
+    {
+      "batch": "sw_batch_0222.json",
+      "post_ids": [
+        826,
+        827,
+        828
+      ],
+      "slug_ids": [
+        10213,
+        10219,
+        10224
+      ]
+    },
+    {
+      "batch": "sw_batch_0223.json",
+      "post_ids": [
+        829,
+        830,
+        831
+      ],
+      "slug_ids": [
+        10229,
+        10235,
+        10240
+      ]
+    },
+    {
+      "batch": "sw_batch_0224.json",
+      "post_ids": [
+        832,
+        833,
+        834
+      ],
+      "slug_ids": [
+        10246,
+        10252,
+        10258
+      ]
+    },
+    {
+      "batch": "sw_batch_0225.json",
+      "post_ids": [
+        835,
+        836,
+        837
+      ],
+      "slug_ids": [
+        10264,
+        10269,
+        10275
+      ]
+    },
+    {
+      "batch": "sw_batch_0226.json",
+      "post_ids": [
+        838,
+        839,
+        840
+      ],
+      "slug_ids": [
+        10281,
+        10287,
+        10293
+      ]
+    },
+    {
+      "batch": "sw_batch_0227.json",
+      "post_ids": [
+        841,
+        842,
+        843
+      ],
+      "slug_ids": [
+        10298,
+        10304,
+        10310
+      ]
+    },
+    {
+      "batch": "sw_batch_0228.json",
+      "post_ids": [
+        844,
+        845,
+        846
+      ],
+      "slug_ids": [
+        10316,
+        10317,
+        10323
+      ]
+    },
+    {
+      "batch": "sw_batch_0229.json",
+      "post_ids": [
+        847,
+        848,
+        849
+      ],
+      "slug_ids": [
+        10329,
+        10335,
+        10340
+      ]
+    },
+    {
+      "batch": "sw_batch_0230.json",
+      "post_ids": [
+        850,
+        851,
+        852
+      ],
+      "slug_ids": [
+        10346,
+        10351,
+        10357
+      ]
+    },
+    {
+      "batch": "sw_batch_0231.json",
+      "post_ids": [
+        853,
+        854,
+        855
+      ],
+      "slug_ids": [
+        10363,
+        10369,
+        10375
+      ]
+    },
+    {
+      "batch": "sw_batch_0232.json",
+      "post_ids": [
+        856,
+        857,
+        858
+      ],
+      "slug_ids": [
+        10381,
+        10386,
+        10392
+      ]
+    },
+    {
+      "batch": "sw_batch_0233.json",
+      "post_ids": [
+        859,
+        860,
+        861
+      ],
+      "slug_ids": [
+        10397,
+        10403,
+        10407
+      ]
+    },
+    {
+      "batch": "sw_batch_0234.json",
+      "post_ids": [
+        862,
+        863,
+        864
+      ],
+      "slug_ids": [
+        10413,
+        10418,
+        10424
+      ]
+    },
+    {
+      "batch": "sw_batch_0235.json",
+      "post_ids": [
+        865,
+        866,
+        867
+      ],
+      "slug_ids": [
+        10430,
+        10436,
+        10442
+      ]
+    },
+    {
+      "batch": "sw_batch_0236.json",
+      "post_ids": [
+        868,
+        869,
+        870
+      ],
+      "slug_ids": [
+        10448,
+        10453,
+        10459
+      ]
+    },
+    {
+      "batch": "sw_batch_0237.json",
+      "post_ids": [
+        871,
+        872,
+        873
+      ],
+      "slug_ids": [
+        10465,
+        10471,
+        10477
+      ]
+    },
+    {
+      "batch": "sw_batch_0238.json",
+      "post_ids": [
+        874,
+        875,
+        876
+      ],
+      "slug_ids": [
+        10482,
+        10488,
+        10494
+      ]
+    },
+    {
+      "batch": "sw_batch_0239.json",
+      "post_ids": [
+        877,
+        878,
+        879
+      ],
+      "slug_ids": [
+        10500,
+        10503,
+        10509
+      ]
+    },
+    {
+      "batch": "sw_batch_0240.json",
+      "post_ids": [
+        880,
+        881,
+        882
+      ],
+      "slug_ids": [
+        10515,
+        10523,
+        10527
+      ]
+    },
+    {
+      "batch": "sw_batch_0241.json",
+      "post_ids": [
+        883,
+        884,
+        885
+      ],
+      "slug_ids": [
+        10532,
+        10538,
+        10544
+      ]
+    },
+    {
+      "batch": "sw_batch_0242.json",
+      "post_ids": [
+        886,
+        887,
+        888
+      ],
+      "slug_ids": [
+        10550,
+        10554,
+        10558
+      ]
+    },
+    {
+      "batch": "sw_batch_0243.json",
+      "post_ids": [
+        889,
+        890,
+        891
+      ],
+      "slug_ids": [
+        10563,
+        10568,
+        10574
+      ]
+    },
+    {
+      "batch": "sw_batch_0244.json",
+      "post_ids": [
+        892,
+        893,
+        894
+      ],
+      "slug_ids": [
+        10580,
+        10586,
+        10592
+      ]
+    },
+    {
+      "batch": "sw_batch_0245.json",
+      "post_ids": [
+        895,
+        896,
+        897
+      ],
+      "slug_ids": [
+        10598,
+        10604,
+        10610
+      ]
+    },
+    {
+      "batch": "sw_batch_0246.json",
+      "post_ids": [
+        898,
+        899,
+        900
+      ],
+      "slug_ids": [
+        10616,
+        10621,
+        10627
+      ]
+    },
+    {
+      "batch": "sw_batch_0247.json",
+      "post_ids": [
+        901,
+        902,
+        903
+      ],
+      "slug_ids": [
+        10633,
+        10639,
+        10645
+      ]
+    },
+    {
+      "batch": "sw_batch_0248.json",
+      "post_ids": [
+        904,
+        905,
+        906
+      ],
+      "slug_ids": [
+        10651,
+        10656,
+        10660
+      ]
+    },
+    {
+      "batch": "sw_batch_0249.json",
+      "post_ids": [
+        907,
+        908,
+        909
+      ],
+      "slug_ids": [
+        10671,
+        10682,
+        10690
+      ]
+    },
+    {
+      "batch": "sw_batch_0250.json",
+      "post_ids": [
+        910,
+        911,
+        912
+      ],
+      "slug_ids": [
+        10702,
+        10710,
+        10722
+      ]
+    },
+    {
+      "batch": "sw_batch_0251.json",
+      "post_ids": [
+        913,
+        914,
+        915
+      ],
+      "slug_ids": [
+        10734,
+        10743,
+        10751
+      ]
+    },
+    {
+      "batch": "sw_batch_0252.json",
+      "post_ids": [
+        916,
+        917,
+        918
+      ],
+      "slug_ids": [
+        10756,
+        10761,
+        10765
+      ]
+    },
+    {
+      "batch": "sw_batch_0253.json",
+      "post_ids": [
+        919,
+        920,
+        921
+      ],
+      "slug_ids": [
+        10770,
+        10776,
+        10782
+      ]
+    },
+    {
+      "batch": "sw_batch_0254.json",
+      "post_ids": [
+        922,
+        923,
+        924
+      ],
+      "slug_ids": [
+        10788,
+        10794,
+        10800
+      ]
+    },
+    {
+      "batch": "sw_batch_0255.json",
+      "post_ids": [
+        925,
+        926,
+        927
+      ],
+      "slug_ids": [
+        10806,
+        10812,
+        10818
+      ]
+    },
+    {
+      "batch": "sw_batch_0256.json",
+      "post_ids": [
+        928,
+        929,
+        930
+      ],
+      "slug_ids": [
+        10824,
+        10830,
+        10835
+      ]
+    },
+    {
+      "batch": "sw_batch_0257.json",
+      "post_ids": [
+        931,
+        932,
+        933
+      ],
+      "slug_ids": [
+        10841,
+        10847,
+        10852
+      ]
+    },
+    {
+      "batch": "sw_batch_0258.json",
+      "post_ids": [
+        934,
+        935,
+        936
+      ],
+      "slug_ids": [
+        10858,
+        10865,
+        10871
+      ]
+    },
+    {
+      "batch": "sw_batch_0259.json",
+      "post_ids": [
+        937,
+        938,
+        939
+      ],
+      "slug_ids": [
+        10876,
+        10882,
+        10888
+      ]
+    },
+    {
+      "batch": "sw_batch_0260.json",
+      "post_ids": [
+        940,
+        941,
+        942
+      ],
+      "slug_ids": [
+        10894,
+        10900,
+        10906
+      ]
+    },
+    {
+      "batch": "sw_batch_0261.json",
+      "post_ids": [
+        943,
+        944,
+        945
+      ],
+      "slug_ids": [
+        10912,
+        10918,
+        10924
+      ]
+    },
+    {
+      "batch": "sw_batch_0262.json",
+      "post_ids": [
+        946,
+        947,
+        948
+      ],
+      "slug_ids": [
+        10930,
+        10936,
+        10941
+      ]
+    },
+    {
+      "batch": "sw_batch_0263.json",
+      "post_ids": [
+        949,
+        950,
+        951
+      ],
+      "slug_ids": [
+        10947,
+        10953,
+        10959
+      ]
+    },
+    {
+      "batch": "sw_batch_0264.json",
+      "post_ids": [
+        952,
+        953,
+        954
+      ],
+      "slug_ids": [
+        10965,
+        10971,
+        10977
+      ]
+    },
+    {
+      "batch": "sw_batch_0265.json",
+      "post_ids": [
+        955,
+        956,
+        957
+      ],
+      "slug_ids": [
+        10983,
+        10989,
+        10995
+      ]
+    },
+    {
+      "batch": "sw_batch_0266.json",
+      "post_ids": [
+        958,
+        959,
+        960
+      ],
+      "slug_ids": [
+        11001,
+        11007,
+        11013
+      ]
+    },
+    {
+      "batch": "sw_batch_0267.json",
+      "post_ids": [
+        961,
+        962,
+        963
+      ],
+      "slug_ids": [
+        11019,
+        11020,
+        11026
+      ]
+    },
+    {
+      "batch": "sw_batch_0268.json",
+      "post_ids": [
+        964,
+        965,
+        966
+      ],
+      "slug_ids": [
+        11032,
+        11038,
+        11044
+      ]
+    },
+    {
+      "batch": "sw_batch_0269.json",
+      "post_ids": [
+        967,
+        968,
+        969
+      ],
+      "slug_ids": [
+        11050,
+        11056,
+        11062
+      ]
+    },
+    {
+      "batch": "sw_batch_0270.json",
+      "post_ids": [
+        970,
+        971,
+        972
+      ],
+      "slug_ids": [
+        11068,
+        11073,
+        11079
+      ]
+    },
+    {
+      "batch": "sw_batch_0271.json",
+      "post_ids": [
+        973,
+        974,
+        975
+      ],
+      "slug_ids": [
+        11085,
+        11090,
+        11093
+      ]
+    },
+    {
+      "batch": "sw_batch_0272.json",
+      "post_ids": [
+        976,
+        977,
+        978
+      ],
+      "slug_ids": [
+        11099,
+        11103,
+        11108
+      ]
+    },
+    {
+      "batch": "sw_batch_0273.json",
+      "post_ids": [
+        979,
+        980,
+        981
+      ],
+      "slug_ids": [
+        11114,
+        11120,
+        11126
+      ]
+    },
+    {
+      "batch": "sw_batch_0274.json",
+      "post_ids": [
+        982,
+        983,
+        984
+      ],
+      "slug_ids": [
+        11131,
+        11137,
+        11143
+      ]
+    },
+    {
+      "batch": "sw_batch_0275.json",
+      "post_ids": [
+        985,
+        986,
+        987
+      ],
+      "slug_ids": [
+        11149,
+        11155,
+        11161
+      ]
+    },
+    {
+      "batch": "sw_batch_0276.json",
+      "post_ids": [
+        988,
+        989,
+        990
+      ],
+      "slug_ids": [
+        11167,
+        11173,
+        11179
+      ]
+    },
+    {
+      "batch": "sw_batch_0277.json",
+      "post_ids": [
+        991,
+        992,
+        993
+      ],
+      "slug_ids": [
+        11185,
+        11191,
+        11197
+      ]
+    },
+    {
+      "batch": "sw_batch_0278.json",
+      "post_ids": [
+        994,
+        995,
+        996
+      ],
+      "slug_ids": [
+        11203,
+        11208,
+        11214
+      ]
+    },
+    {
+      "batch": "sw_batch_0279.json",
+      "post_ids": [
+        997,
+        998,
+        999
+      ],
+      "slug_ids": [
+        11219,
+        11225,
+        11231
+      ]
+    },
+    {
+      "batch": "sw_batch_0280.json",
+      "post_ids": [
+        1000,
+        1001,
+        1002
+      ],
+      "slug_ids": [
+        11237,
+        11243,
+        11248
+      ]
+    },
+    {
+      "batch": "sw_batch_0281.json",
+      "post_ids": [
+        1003,
+        1004,
+        1005
+      ],
+      "slug_ids": [
+        11254,
+        11260,
+        11266
+      ]
+    },
+    {
+      "batch": "sw_batch_0282.json",
+      "post_ids": [
+        1006,
+        1007,
+        1008
+      ],
+      "slug_ids": [
+        11270,
+        11275,
+        11281
+      ]
+    },
+    {
+      "batch": "sw_batch_0283.json",
+      "post_ids": [
+        1009,
+        1010,
+        1011
+      ],
+      "slug_ids": [
+        11287,
+        11293,
+        11299
+      ]
+    },
+    {
+      "batch": "sw_batch_0284.json",
+      "post_ids": [
+        1012,
+        1013,
+        1014
+      ],
+      "slug_ids": [
+        11304,
+        11310,
+        11316
+      ]
+    },
+    {
+      "batch": "sw_batch_0285.json",
+      "post_ids": [
+        1015,
+        1016,
+        1017
+      ],
+      "slug_ids": [
+        11322,
+        11328,
+        11334
+      ]
+    },
+    {
+      "batch": "sw_batch_0286.json",
+      "post_ids": [
+        1018,
+        1019,
+        1020
+      ],
+      "slug_ids": [
+        11337,
+        11343,
+        11348
+      ]
+    },
+    {
+      "batch": "sw_batch_0287.json",
+      "post_ids": [
+        1021,
+        1022,
+        1023
+      ],
+      "slug_ids": [
+        11352,
+        11358,
+        11364
+      ]
+    },
+    {
+      "batch": "sw_batch_0288.json",
+      "post_ids": [
+        1024,
+        1025,
+        1026
+      ],
+      "slug_ids": [
+        11369,
+        11374,
+        11379
+      ]
+    },
+    {
+      "batch": "sw_batch_0289.json",
+      "post_ids": [
+        1027,
+        1028,
+        1029
+      ],
+      "slug_ids": [
+        11384,
+        11390,
+        11395
+      ]
+    },
+    {
+      "batch": "sw_batch_0290.json",
+      "post_ids": [
+        1030,
+        1031,
+        1032
+      ],
+      "slug_ids": [
+        11399,
+        11405,
+        11411
+      ]
+    },
+    {
+      "batch": "sw_batch_0291.json",
+      "post_ids": [
+        1033,
+        1034,
+        1035
+      ],
+      "slug_ids": [
+        11415,
+        11421,
+        11426
+      ]
+    },
+    {
+      "batch": "sw_batch_0292.json",
+      "post_ids": [
+        1036,
+        1037,
+        1038
+      ],
+      "slug_ids": [
+        11431,
+        11437,
+        11440
+      ]
+    },
+    {
+      "batch": "sw_batch_0293.json",
+      "post_ids": [
+        1039,
+        1040,
+        1041
+      ],
+      "slug_ids": [
+        11446,
+        11452,
+        11458
+      ]
+    },
+    {
+      "batch": "sw_batch_0294.json",
+      "post_ids": [
+        1042,
+        1043,
+        1044
+      ],
+      "slug_ids": [
+        11463,
+        11469,
+        11474
+      ]
+    },
+    {
+      "batch": "sw_batch_0295.json",
+      "post_ids": [
+        1045,
+        1046,
+        1047
+      ],
+      "slug_ids": [
+        11478,
+        11482,
+        11487
+      ]
+    },
+    {
+      "batch": "sw_batch_0296.json",
+      "post_ids": [
+        1048,
+        1049,
+        1050
+      ],
+      "slug_ids": [
+        11492,
+        11498,
+        11502
+      ]
+    },
+    {
+      "batch": "sw_batch_0297.json",
+      "post_ids": [
+        1051,
+        1052,
+        1053
+      ],
+      "slug_ids": [
+        11508,
+        11514,
+        11520
+      ]
+    },
+    {
+      "batch": "sw_batch_0298.json",
+      "post_ids": [
+        1054,
+        1055,
+        1056
+      ],
+      "slug_ids": [
+        11526,
+        11532,
+        11537
+      ]
+    },
+    {
+      "batch": "sw_batch_0299.json",
+      "post_ids": [
+        1057,
+        1058,
+        1059
+      ],
+      "slug_ids": [
+        11542,
+        11548,
+        11553
+      ]
+    },
+    {
+      "batch": "sw_batch_0300.json",
+      "post_ids": [
+        1060,
+        1061,
+        1062
+      ],
+      "slug_ids": [
+        11558,
+        11562,
+        11567
+      ]
+    },
+    {
+      "batch": "sw_batch_0301.json",
+      "post_ids": [
+        1063,
+        1064,
+        1065
+      ],
+      "slug_ids": [
+        11573,
+        11578,
+        11583
+      ]
+    },
+    {
+      "batch": "sw_batch_0302.json",
+      "post_ids": [
+        1066,
+        1067,
+        1068
+      ],
+      "slug_ids": [
+        11588,
+        11594,
+        11598
+      ]
+    },
+    {
+      "batch": "sw_batch_0303.json",
+      "post_ids": [
+        1069,
+        1070,
+        1071
+      ],
+      "slug_ids": [
+        11600,
+        11604,
+        11610
+      ]
+    },
+    {
+      "batch": "sw_batch_0304.json",
+      "post_ids": [
+        1072,
+        1073,
+        1074
+      ],
+      "slug_ids": [
+        11614,
+        11618,
+        11624
+      ]
+    },
+    {
+      "batch": "sw_batch_0305.json",
+      "post_ids": [
+        1075,
+        1076,
+        1077
+      ],
+      "slug_ids": [
+        11629,
+        11634,
+        11639
+      ]
+    },
+    {
+      "batch": "sw_batch_0306.json",
+      "post_ids": [
+        1078,
+        1079,
+        1080
+      ],
+      "slug_ids": [
+        11644,
+        11649,
+        11658
+      ]
+    },
+    {
+      "batch": "sw_batch_0307.json",
+      "post_ids": [
+        1081,
+        1082,
+        1083
+      ],
+      "slug_ids": [
+        11664,
+        11670,
+        11674
+      ]
+    },
+    {
+      "batch": "sw_batch_0308.json",
+      "post_ids": [
+        1084,
+        1085,
+        1086
+      ],
+      "slug_ids": [
+        11675,
+        11681,
+        11687
+      ]
+    },
+    {
+      "batch": "sw_batch_0309.json",
+      "post_ids": [
+        1087,
+        1088,
+        1089
+      ],
+      "slug_ids": [
+        11692,
+        11697,
+        11702
+      ]
+    },
+    {
+      "batch": "sw_batch_0310.json",
+      "post_ids": [
+        1090,
+        1091,
+        1092
+      ],
+      "slug_ids": [
+        11707,
+        11713,
+        11719
+      ]
+    },
+    {
+      "batch": "sw_batch_0311.json",
+      "post_ids": [
+        1093,
+        1094,
+        1095
+      ],
+      "slug_ids": [
+        11725,
+        11729,
+        11734
+      ]
+    },
+    {
+      "batch": "sw_batch_0312.json",
+      "post_ids": [
+        1096,
+        1097,
+        1098
+      ],
+      "slug_ids": [
+        11740,
+        11746,
+        11752
+      ]
+    },
+    {
+      "batch": "sw_batch_0313.json",
+      "post_ids": [
+        1099,
+        1100,
+        1101
+      ],
+      "slug_ids": [
+        11756,
+        11761,
+        11767
+      ]
+    },
+    {
+      "batch": "sw_batch_0314.json",
+      "post_ids": [
+        1102,
+        1103,
+        1104
+      ],
+      "slug_ids": [
+        11771,
+        11777,
+        11783
+      ]
+    },
+    {
+      "batch": "sw_batch_0315.json",
+      "post_ids": [
+        1105,
+        1106,
+        1107
+      ],
+      "slug_ids": [
+        11784,
+        11785,
+        11786
+      ]
+    },
+    {
+      "batch": "sw_batch_0316.json",
+      "post_ids": [
+        1108,
+        1109,
+        1110
+      ],
+      "slug_ids": [
+        11787,
+        11793,
+        11798
+      ]
+    },
+    {
+      "batch": "sw_batch_0317.json",
+      "post_ids": [
+        1111,
+        1112,
+        1113
+      ],
+      "slug_ids": [
+        11804,
+        11810,
+        11816
+      ]
+    },
+    {
+      "batch": "sw_batch_0318.json",
+      "post_ids": [
+        1114,
+        1115,
+        1116
+      ],
+      "slug_ids": [
+        11822,
+        11828,
+        11833
+      ]
+    },
+    {
+      "batch": "sw_batch_0319.json",
+      "post_ids": [
+        1117,
+        1118,
+        1119
+      ],
+      "slug_ids": [
+        11838,
+        11843,
+        11849
+      ]
+    },
+    {
+      "batch": "sw_batch_0320.json",
+      "post_ids": [
+        1120,
+        1121,
+        1122
+      ],
+      "slug_ids": [
+        11858,
+        11867,
+        11876
+      ]
+    },
+    {
+      "batch": "sw_batch_0321.json",
+      "post_ids": [
+        1123,
+        1124,
+        1125
+      ],
+      "slug_ids": [
+        11880,
+        11886,
+        11892
+      ]
+    },
+    {
+      "batch": "sw_batch_0322.json",
+      "post_ids": [
+        1126,
+        1127,
+        1128
+      ],
+      "slug_ids": [
+        11896,
+        11902,
+        11905
+      ]
+    },
+    {
+      "batch": "sw_batch_0323.json",
+      "post_ids": [
+        1129,
+        1130,
+        1131
+      ],
+      "slug_ids": [
+        11911,
+        11917,
+        11922
+      ]
+    },
+    {
+      "batch": "sw_batch_0324.json",
+      "post_ids": [
+        1132,
+        1133,
+        1134
+      ],
+      "slug_ids": [
+        11928,
+        11934,
+        11939
+      ]
+    },
+    {
+      "batch": "sw_batch_0325.json",
+      "post_ids": [
+        1135,
+        1136,
+        1137
+      ],
+      "slug_ids": [
+        11944,
+        11950,
+        11953
+      ]
+    },
+    {
+      "batch": "sw_batch_0326.json",
+      "post_ids": [
+        1138,
+        1139,
+        1140
+      ],
+      "slug_ids": [
+        11959,
+        11965,
+        11971
+      ]
+    },
+    {
+      "batch": "sw_batch_0327.json",
+      "post_ids": [
+        1141,
+        1142,
+        1143
+      ],
+      "slug_ids": [
+        11977,
+        11982,
+        11988
+      ]
+    },
+    {
+      "batch": "sw_batch_0328.json",
+      "post_ids": [
+        1144,
+        1145,
+        1146
+      ],
+      "slug_ids": [
+        11993,
+        11998,
+        12009
+      ]
+    },
+    {
+      "batch": "sw_batch_0329.json",
+      "post_ids": [
+        1147,
+        1148,
+        1149
+      ],
+      "slug_ids": [
+        12015,
+        12020,
+        12026
+      ]
+    },
+    {
+      "batch": "sw_batch_0330.json",
+      "post_ids": [
+        1150,
+        1151,
+        1152
+      ],
+      "slug_ids": [
+        12032,
+        12038,
+        12043
+      ]
+    },
+    {
+      "batch": "sw_batch_0331.json",
+      "post_ids": [
+        1153,
+        1154,
+        1155
+      ],
+      "slug_ids": [
+        12049,
+        12054,
+        12059
+      ]
+    },
+    {
+      "batch": "sw_batch_0332.json",
+      "post_ids": [
+        1156,
+        1157,
+        1158
+      ],
+      "slug_ids": [
+        12065,
+        12070,
+        12075
+      ]
+    },
+    {
+      "batch": "sw_batch_0333.json",
+      "post_ids": [
+        1159,
+        1160,
+        1161
+      ],
+      "slug_ids": [
+        12081,
+        12085,
+        12090
+      ]
+    },
+    {
+      "batch": "sw_batch_0334.json",
+      "post_ids": [
+        1162,
+        1163,
+        1164
+      ],
+      "slug_ids": [
+        12094,
+        12100,
+        12106
+      ]
+    },
+    {
+      "batch": "sw_batch_0335.json",
+      "post_ids": [
+        1165,
+        1166,
+        1167
+      ],
+      "slug_ids": [
+        12110,
+        12116,
+        12121
+      ]
+    },
+    {
+      "batch": "sw_batch_0336.json",
+      "post_ids": [
+        1168,
+        1169,
+        1170
+      ],
+      "slug_ids": [
+        12127,
+        12132,
+        12138
+      ]
+    },
+    {
+      "batch": "sw_batch_0337.json",
+      "post_ids": [
+        1171,
+        1172,
+        1173
+      ],
+      "slug_ids": [
+        12142,
+        12147,
+        12153
+      ]
+    },
+    {
+      "batch": "sw_batch_0338.json",
+      "post_ids": [
+        1174,
+        1175,
+        1176
+      ],
+      "slug_ids": [
+        12159,
+        12164,
+        12170
+      ]
+    },
+    {
+      "batch": "sw_batch_0339.json",
+      "post_ids": [
+        1177,
+        1178,
+        1179
+      ],
+      "slug_ids": [
+        12175,
+        12181,
+        12186
+      ]
+    },
+    {
+      "batch": "sw_batch_0340.json",
+      "post_ids": [
+        1180,
+        1181,
+        1182
+      ],
+      "slug_ids": [
+        12192,
+        12198,
+        12204
+      ]
+    },
+    {
+      "batch": "sw_batch_0341.json",
+      "post_ids": [
+        1183,
+        1184,
+        1185
+      ],
+      "slug_ids": [
+        12210,
+        12215,
+        12220
+      ]
+    },
+    {
+      "batch": "sw_batch_0342.json",
+      "post_ids": [
+        1186,
+        1187,
+        1188
+      ],
+      "slug_ids": [
+        12224,
+        12229,
+        12234
+      ]
+    },
+    {
+      "batch": "sw_batch_0343.json",
+      "post_ids": [
+        1189,
+        1190,
+        1191
+      ],
+      "slug_ids": [
+        12239,
+        12245,
+        12250
+      ]
+    },
+    {
+      "batch": "sw_batch_0344.json",
+      "post_ids": [
+        1192,
+        1193
+      ],
+      "slug_ids": [
+        12255,
+        12260
+      ]
+    }
+  ]
+}

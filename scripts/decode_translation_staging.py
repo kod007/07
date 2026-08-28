@@ -9,7 +9,9 @@ staged = sorted(ROOT.glob('02_cevriliyor/*/staging/*.json.zlib.b64'))
 for src in staged:
     lang = src.parents[1].name
     name = src.name.removesuffix('.zlib.b64')
-    raw = zlib.decompress(base64.b64decode(src.read_text(encoding='ascii')))
+    text = ''.join(src.read_text(encoding='ascii').split())
+    text += '=' * (-len(text) % 4)
+    raw = zlib.decompress(base64.b64decode(text, validate=False))
     obj = json.loads(raw.decode('utf-8'))
     if not isinstance(obj, list):
         raise SystemExit(f'{src}: root is not array')

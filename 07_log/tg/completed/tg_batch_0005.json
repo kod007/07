@@ -1,0 +1,12 @@
+{
+  "batch": "tg_batch_0005.json",
+  "target_lang": "tg",
+  "agent_id": "agent_2",
+  "post_ids": [
+    130,
+    131,
+    132
+  ],
+  "status": "completed",
+  "qa": "PASS"
+}

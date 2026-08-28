@@ -3,7 +3,7 @@ name: Materialize translation output
 on:
   push:
     paths:
-      - '02_cevriliyor/**/staging/*.json.zlib.b64'
+      - '02_cevriliyor/**/staging/*.json.zlib.part*.b64'
 
 permissions:
   contents: write

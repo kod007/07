@@ -1,0 +1,24 @@
+{
+  "batch": "tg_batch_0007.json",
+  "target_lang": "tg",
+  "agent_id": "agent_2",
+  "post_ids": [
+    136,
+    137,
+    138
+  ],
+  "status": "PASS",
+  "checks": {
+    "json_parse": true,
+    "identity": true,
+    "schema": true,
+    "description_limit": true,
+    "content_complete": true,
+    "html_integrity": true,
+    "math_integrity": true,
+    "numeric_integrity": true,
+    "url_integrity": true,
+    "language_integrity": true,
+    "exact_h2": true
+  }
+}

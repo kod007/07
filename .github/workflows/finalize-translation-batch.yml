@@ -1,0 +1,34 @@
+name: Finalize translation batch
+
+on:
+  push:
+    paths:
+      - '02_cevriliyor/**/finalize/*.request.json'
+
+permissions:
+  contents: write
+
+jobs:
+  finalize:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+      - name: Validate and finalize
+        run: python scripts/finalize_translation_batch.py
+      - name: Commit and push safely
+        run: |
+          git config user.name 'verianla-translation-bot'
+          git config user.email 'actions@users.noreply.github.com'
+          git add -A
+          git commit -m 'complete: finalize translation batch'
+          for i in 1 2 3 4 5; do
+            git pull --rebase origin main || { git rebase --abort || true; sleep 2; continue; }
+            if git push; then exit 0; fi
+            sleep 2
+          done
+          exit 1
